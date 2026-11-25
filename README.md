@@ -1,7 +1,7 @@
 # Alysha Anderson Cybersecurity Portfolio
 
 ## About Me
-MS in Cybersecurity student | Aspiring GRC Analyst  
+MS in Cybersecurity | Aspiring GRC Analyst  
 I am exploring projects in cybersecurity, GRC, and network security while building hands-on skills.  
 
 ## Skills
